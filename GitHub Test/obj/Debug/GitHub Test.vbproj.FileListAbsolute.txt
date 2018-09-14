@@ -1,12 +1,1 @@
 c:\users\cumpy rules\documents\visual studio 2015\Projects\GitHub Test\GitHub Test\bin\Debug\GitHub Test.exe.config
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\bin\Debug\GitHub Test.exe.config
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\bin\Debug\GitHub Test.exe
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\bin\Debug\GitHub Test.pdb
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\bin\Debug\GitHub Test.xml
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\obj\Debug\GitHub Test.vbprojResolveAssemblyReference.cache
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\obj\Debug\GitHub_Test.Form1.resources
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\obj\Debug\GitHub_Test.Resources.resources
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\obj\Debug\GitHub Test.vbproj.GenerateResource.Cache
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\obj\Debug\GitHub Test.exe
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\obj\Debug\GitHub Test.xml
-C:\Users\Cumpy Rules\Documents\GitHub\Test-App\GitHub Test\obj\Debug\GitHub Test.pdb
